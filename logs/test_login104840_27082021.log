@@ -1,0 +1,8 @@
+08/27/2021 10:48:48 AM - INFO: initiating driver
+08/27/2021 10:48:48 AM - INFO: Running test case: test_login[letmeshadowfiend@gmail.com-Oleg5969396!-\u041e\u043b\u0435\u0433]
+08/27/2021 10:48:48 AM - INFO: Initiating pages
+08/27/2021 10:48:48 AM - INFO: Find and click on 'other' tab
+08/27/2021 10:48:52 AM - INFO: go to login form
+08/27/2021 10:48:53 AM - INFO: choose login type - 'by email'
+08/27/2021 10:48:54 AM - INFO: filling up email and password fields
+08/27/2021 10:48:58 AM - INFO: Click on login button
